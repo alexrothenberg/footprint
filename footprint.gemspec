@@ -20,6 +20,7 @@ Gem::Specification.new do |gem|
   gem.add_development_dependency  "factory_girl"
   gem.add_development_dependency  "sqlite3"
   gem.add_development_dependency  "ammeter"
+  gem.add_development_dependency  "rails"
   
   gem.add_dependency              "mongoid", "~> 3.0"
   gem.add_dependency              "activerecord", "~> 3.2.0"
