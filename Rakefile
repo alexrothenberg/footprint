@@ -45,4 +45,4 @@ namespace :generate do
   end
 end
 
-task :rspec => 'generate:app'
+task :spec => 'generate:app'
